@@ -1,0 +1,12 @@
+Bind Admin Pages
+MVC Authorization
+API Authorization
+First time Login New Model Popup
+Multi Login
+
+
+Change the ResetPassword.cshtml design.
+Registration Server side toastr errors should go automaticaly after some time.
+While Login, getting the location based on Latitude and Longitude.
+Create a New MasterPage Template for Reset Password without the welcome image in comments.
+Place all Authorization Redirects to Unauthorization page. (Start with CSRF_AntiForgeryToken)
