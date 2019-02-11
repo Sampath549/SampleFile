@@ -1,0 +1,27 @@
+Dashboard.cshtml
+
+In span Change Password place '&nbsp;&nbsp;' before Change Password
+------------------------------------------------------------------------------------------------------------
+
+AddMenus.cshtml
+
+<h4 class="modal-title modaltitle_intro">
+<span class="modalheader_title textyellow"><i class="fa fa-hand-o-right m-l-3 m-r4"></i>
+&nbsp;&nbsp;@ViewBag.MenuTitle</span>
+</h4>
+------------------------------------------------------------------------------------------------------------
+
+AddSubMenus.cshtml
+
+<h4 class="modal-title modaltitle_intro">
+<span class="modalheader_title textyellow"><i class="fa fa-hand-o-right m-l-3 mr4"></i> &nbsp;&nbsp;@ViewBag.SubMenuTitle</span>
+</h4>
+------------------------------------------------------------------------------------------------------------
+API
+UserMappingDetails in CPanleController
+UserMappingDetails in CPanelDAL
+------------------------------------------------------------------------------------------------------------
+
+MVC
+MyProfile in CPanelController
+------------------------------------------------------------------------------------------------------------
